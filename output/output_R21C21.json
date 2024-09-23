@@ -1,0 +1,177 @@
+[
+    {
+        "Customer Requirements": "Customer is looking for a vehicle with a budget of Rs. 5-6 lakhs. Interested in an orange 7-seater, possibly a Kiger.",
+        "Conversation Outcome": "No clear decision. The customer is still gathering information about vehicle prices and specifications.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer prefers an automatic vehicle. Interested in a top-end model (likely 2022) and also considering a cheaper option from 2019. Budget range is Rs. 6.5-8.21 lakhs.",
+        "Conversation Outcome": "Customer appears undecided, weighing between two models (2022 and 2019).",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is interested in vehicles with a button start. Budget seems flexible between Rs. 14,000-18,000. Interested in Baleno but also considering a 2016 Swift Desire priced at Rs. 5 lakhs.",
+        "Conversation Outcome": "Customer is still comparing models and hasn't made a decision.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer inquires about a white diesel vehicle from 2015.",
+        "Conversation Outcome": "No purchase decision made, customer is still gathering vehicle details.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Interested in a Delhi vehicle that has run 1,28,000 kilometers, price mentioned at Rs. 5.89 lakhs.",
+        "Conversation Outcome": "No purchase decision made, still gathering information.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "No specific vehicle requirements mentioned in this interaction.",
+        "Conversation Outcome": "Unclear outcome due to lack of detailed conversation.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is checking vehicle quality, but specifics are unclear.",
+        "Conversation Outcome": "Customer is waiting to assess if the vehicle is good before proceeding further.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer seems interested in a premium vehicle priced between Rs. 6.98 lakhs to Rs. 12.50 lakhs.",
+        "Conversation Outcome": "No final decision, still inquiring about prices and specifications.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is looking for a top-end vehicle, possibly in blue, and interested in vehicles with varying mileage (16,000 km to 4,000 km).",
+        "Conversation Outcome": "No decision made, as the customer is still exploring options.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is asking about extra cars and is specifically interested in warranty details (power train and comprehensive).",
+        "Conversation Outcome": "Customer is exploring options, focused on warranty details but no purchase decision yet.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is interested in comprehensive warranty details, asking if it is free of cost and what parts are covered.",
+        "Conversation Outcome": "Customer was informed that the comprehensive warranty is free and covers specific parts.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about the process of sending a technician for vehicle issues and the support available from local vendors and showrooms.",
+        "Conversation Outcome": "Customer was explained the procedure for sending a technician and the steps involved in vehicle support.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is asking about the process and time required for a refund in case of warranty claims.",
+        "Conversation Outcome": "Customer was informed that refunds depend on the vehicle running for five days or 300 kilometers and that the refund process takes 3-4 days.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is asking about loan disbursement and free delivery within Bangalore.",
+        "Conversation Outcome": "Customer was informed that the loan disbursement will take 5-6 days, and free delivery is available within Bangalore limits.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is considering a Baleno or i20, asking for vehicle details and price (Rs. 12 lakhs for Baleno).",
+        "Conversation Outcome": "No decision made yet, customer is gathering details about the Baleno and i20.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about an i20 diesel vehicle with comprehensive insurance until January.",
+        "Conversation Outcome": "No decision made, customer is gathering more information about the i20 diesel vehicle.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about a diesel vehicle.",
+        "Conversation Outcome": "No outcome mentioned, customer is still inquiring.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about a vehicle priced at Rs. 1,28,000.",
+        "Conversation Outcome": "No purchase decision made, customer is still gathering information.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is asking about vehicle repainting and specific paint color preferences for a K-transfer process.",
+        "Conversation Outcome": "Customer was informed that repainting can be done after K transfer and was gathering information about vehicle specifications.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is asking about pending issues related to online transfer and the vehicle repainting process.",
+        "Conversation Outcome": "Customer was informed that online transfer will be completed by June 24, and repainting can be done afterward.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is asking about showroom pricing, RTO fees, and insurance costs.",
+        "Conversation Outcome": "Customer received a detailed breakdown of RTO fees and insurance costs for a new vehicle.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about the condition of a Baleno, which has been driven 28 times and is in the assured category.",
+        "Conversation Outcome": "Customer was shown the vehicle's details but no decision has been made.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about a Baleno they have driven 3 to 5 times in a year.",
+        "Conversation Outcome": "Customer was shown more details but no purchase decision made.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is comparing two vehicles and deciding between vehicle 24 and vehicle 26.",
+        "Conversation Outcome": "Customer is leaning towards one vehicle but hasn\u2019t made a final decision.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is looking for a top-end, sports vehicle, possibly an Addar model, priced at Rs. 1.22 lakhs.",
+        "Conversation Outcome": "Customer is still gathering information about this top-end vehicle.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about vehicle routes and comparing a vehicle priced at Rs. 590,000 with another vehicle.",
+        "Conversation Outcome": "No decision made, customer is still gathering information about different models.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about vehicle repainting and asking if vehicles have been painted before delivery.",
+        "Conversation Outcome": "Customer was informed that small scratches and dents are repainted but no decision has been made.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about vehicle repainting and mentions that the vehicle hasn\u2019t been repainted in 10 years.",
+        "Conversation Outcome": "Customer was informed about repainting options but no final decision was made.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is asking about the price of a specific 16 model vehicle and mentions that the price is fixed at Rs. 590,000.",
+        "Conversation Outcome": "Customer was informed that the price is fixed but no purchase decision has been made.",
+        "Objection": "Service Issue"
+    },
+    {
+        "Customer Requirements": "Customer is asking about the K transfer process and mentions repainting the vehicle in white.",
+        "Conversation Outcome": "Customer was informed that the vehicle could be repainted after K transfer.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about a 16 model vehicle priced at Rs. 6,26,000.",
+        "Conversation Outcome": "Customer is still inquiring and gathering details about the vehicle.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is asking about a Ciaz, specifically a blue one, and mentions the key.",
+        "Conversation Outcome": "Customer is still inquiring but no final decision was made.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is asking about a red colored Delhi vehicle and possibly enquiring about a booking.",
+        "Conversation Outcome": "Customer is gathering information and checking details on paper but no decision yet.",
+        "Objection": "Car Not Available"
+    },
+    {
+        "Customer Requirements": "Customer is asking about a powerful vehicle with the latest features.",
+        "Conversation Outcome": "No decision made, customer is still exploring options.",
+        "Objection": "Price Dissatisfaction"
+    },
+    {
+        "Customer Requirements": "Customer is inquiring about the condition of a smooth, top-end vehicle and if it is untouched.",
+        "Conversation Outcome": "Customer was informed the vehicle is original and untouched but no decision has been made.",
+        "Objection": "Service Issue"
+    }
+]

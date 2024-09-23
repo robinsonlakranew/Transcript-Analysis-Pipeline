@@ -12,21 +12,14 @@ from utils import preprocess_review, \
                     determine_conversation_outcome
 
 
-# Function to analyze a transcript entry by entry and return the structured output
 def analyze_transcript(transcript):
-    """
-    Analyze a transcript entry-by-entry and extract objections, customer requirements, and conversation outcome.
-    """
-    # Load LLaMA model and tokenizer
+    # LLaMA model and tokenizer
     model, tokenizer = load_llama_model()
 
-    # Preprocess the transcript
     conversation = preprocess_transcript(transcript)
 
-    # Store results for each entry
     results = []
 
-    # Process each entry in the conversation individually
     for entry in conversation:
         # 1. Classify objection
         objection_category = classify_objection(entry['text'], model, tokenizer)
@@ -37,7 +30,6 @@ def analyze_transcript(transcript):
         # 3. Determine conversation outcome
         conversation_outcome = determine_conversation_outcome(entry['text'], model, tokenizer)
 
-        # Store the result for the current entry
         result = {
             "entry": {
                 "start_time": entry['start'],
@@ -84,7 +76,9 @@ def process_transcripts(input_folder, output_folder):
             print(f"Processed {filename} -> {output_filename}")
 
 if __name__ == "__main__":
-    # Input and output folder paths
+
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
     input_folder = 'data'
     output_folder = 'output'
 
